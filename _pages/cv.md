@@ -18,13 +18,15 @@ Work experience
 * Jul - Dec 2019: Research Intern
   * International Computer Science Institute (ICSI)
   * Research Field: Computer vision, image segmentation and inpainting
-  * Supervisor: Dr Qian Yu
+  * Supervisor: <a href="https://yuqian1023.github.io/">Dr Qian Yu</a>
   
 Skills
 ======
 * Python
 * Java
 * C
+* TensorFlow
+* Pytorch
 
 Publications
 ======
@@ -32,11 +34,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
