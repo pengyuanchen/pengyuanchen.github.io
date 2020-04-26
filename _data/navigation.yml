@@ -3,14 +3,11 @@ main:
   - title: "Tutorials"
     url: /publications/  
 
-  - title: "Photography"
-    url: /teaching/    
-        
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Photography"
+    url: /teaching/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
