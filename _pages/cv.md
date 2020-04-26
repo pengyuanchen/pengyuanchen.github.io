@@ -34,19 +34,22 @@ Skills
 
 Coursework
 ======
-* CS 61A (The Structure and Interpretation of Computer Programs)
-* CS 61B (Data Structures)
-* CS 61C (Machine Structures)
-* CS 70 (Discrete Mathematics and Probability Theory)
-* CS 170 (Efficient Algorithms and Intractable Problems)
-* CS C100 (Principles & Techniques of Data Science)
-* CS 188 (Introduction to Artificial Intelligence)
-* CS 162 (Operating Systems and System Programming)
-* EECS 16A (Designing Information Devices and Systems I)
-* EECS 127 (Optimization Models in Engineering)
-* Math 53 (Multivariable Calculus)
-* Math 110 (Linear Algebra)
-* Stat 134 (Concepts of Probability)
+* Computer Science:
+  * CS 61A (The Structure and Interpretation of Computer Programs)
+  * CS 61B (Data Structures)
+  * CS 61C (Machine Structures)
+  * CS 70 (Discrete Mathematics and Probability Theory)
+  * CS 170 (Efficient Algorithms and Intractable Problems)
+  * CS C100 (Principles & Techniques of Data Science)
+  * CS 188 (Introduction to Artificial Intelligence)
+  * CS 162 (Operating Systems and System Programming) <em>next semester</em>
+* Electrical Engineering:
+  * EECS 16A (Designing Information Devices and Systems I)
+  * EECS 127 (Optimization Models in Engineering) <em>next semester</em>
+* Mathematics and Statistics
+  * Math 53 (Multivariable Calculus)
+  * Math 110 (Linear Algebra)
+  * Stat 134 (Concepts of Probability)
 
 Service and leadership
 ======
