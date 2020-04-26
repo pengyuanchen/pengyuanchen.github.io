@@ -1,7 +1,7 @@
 ---
 title: 'Welcome'
 date: 2020-04-26
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2020/04/blog-post-1/
 tags:
   - personal
 ---
