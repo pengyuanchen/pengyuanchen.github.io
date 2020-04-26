@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Tutorials"
-    url: /publications/  
+    url: /tutorials/  
 
   - title: "Blog Posts"
     url: /year-archive/
 
   - title: "Photography"
-    url: /teaching/    
+    url: /photography/    
     
   - title: "CV"
     url: /cv/
