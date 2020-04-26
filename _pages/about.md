@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Pengyuan Chen's personal website.
-I am still working on this website. Please stay tuned for more content.
+I am a 3rd year Computer Science student at UC Berkeley. I used to work at ICSI as a computer vision research intern.
+<a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">跳到自己博客列表</a>
+跳到自己博客列表：<a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">https://www.icsi.berkeley.edu/icsi/</a>
