@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pengyuan Chen"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Pengyuan Chen"
 description              : &description "3rd year Computer Science student at UC Berkeley"
