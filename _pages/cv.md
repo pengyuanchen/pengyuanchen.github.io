@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,20 +27,27 @@ Skills
 * C
 * TensorFlow
 * Pytorch
+* sklearn
+* NumPy
+* Unix
+* PANDAS
 
-Publications
+Coursework
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* CS 61A (The Structure and Interpretation of Computer Programs)
+* CS 61B (Data Structures)
+* CS 61C (Machine Structures)
+* CS 70 (Discrete Mathematics and Probability Theory)
+* CS 170 (Efficient Algorithms and Intractable Problems)
+* CS C100 (Principles & Techniques of Data Science)
+* CS 188 (Introduction to Artificial Intelligence)
+* CS 162 (Operating Systems and System Programming)
+* EECS 16A (Designing Information Devices and Systems I)
+* EECS 127 (Optimization Models in Engineering)
+* Math 53 (Multivariable Calculus)
+* Math 110 (Linear Algebra)
+* Stat 134 (Concepts of Probability)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* As a director of SAAS (Students Association for Applied Statistics) Data Consulting Committee, I am currently leading a team of 9 data consultants to implement a fine-grained vehicle classification model for our business partner.
