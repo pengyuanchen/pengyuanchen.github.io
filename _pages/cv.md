@@ -16,9 +16,9 @@ Education
 Work experience
 ======
 * Jul - Dec 2019: Research Intern
-  * International Computer Science Institute (ICSI)
+  * <a href="https://www.icsi.berkeley.edu/icsi/groups/vision">Vision Group, ICSI</a>
   * Research Field: Computer vision, image segmentation and inpainting
-  * Supervisor: <a href="https://yuqian1023.github.io/">Dr Qian Yu</a>
+  * Advised by: Dr <a href="https://yuqian1023.github.io/">Qian Yu</a>
   
 Skills
 ======
