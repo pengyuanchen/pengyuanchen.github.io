@@ -11,5 +11,3 @@ Since last year, I have been thinking about starting my personal blog - a place 
 Just like any young college student, my life is constantly filled with new events: precious opportunities, exciting challenges, unpleasant incidents, downright failures, and, despite its rare occurrence, occasional successes. Through these encounters with life, I feel an amazing mixture of opposite thoughts and feelings hitting me simultaneously at an unprecedented rate: expectations about my future and fear of uncertainties, hope about what is going to come and some reminiscence of old days, a constant realization of my weakness and insignificance, and an equally strong determination and confidence to create something great, to leave a legacy in this world. This is a beautiful period of time, and I know it won't be long. It would be long gone before one even realizes it. This is why I hope to record it here.
 
 So dear friend, if you somehow ended up here, welcome to my personal book of adulting.
-
-- Peng 2020.5.9
