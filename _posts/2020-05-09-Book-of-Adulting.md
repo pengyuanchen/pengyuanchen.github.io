@@ -1,7 +1,9 @@
+---
 layout: page
 title: "A Personal Book of Adulting - Preface"
 date: 2020-05-09 00:59:00 -0000
 categories: personal
+---
 
 Since last year, I have been thinking about starting my personal blog - a place where I can share something with this world. Of course, as a computer science student, I would like to share my two cents on technical topics. This is no doubt going to be an important part of this website. But besides that, I also want here to be a place where I can record my personal growth for my own sake, or maybe even meet some new friends who are going through, or have gone through, the stage of life I am going through right now.
 
