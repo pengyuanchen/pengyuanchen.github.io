@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pengyuan Chen"
-  avatar           : "https://pic.images.ac.cn/image/5ea54e8959960.html"
+  avatar           : "./yosemite.jpeg"
   bio              : "3rd year Computer Science student at UC Berkeley"
   location         : "Berkeley, CA, USA"
   employer         :
